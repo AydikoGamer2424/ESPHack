@@ -1,0 +1,9 @@
+# ESPHack
+ESP Hack
+To use the cheat, create a new hack function and find an Active class and a new Awake function like this and that's it ....
+private void Awake ()
+{
+
+global :: ESPHack.WHLoader ();
+
+}
