@@ -5,8 +5,14 @@ private void Awake ()
 {
 
 global :: ESPHack.WHLoader ();
-global::ESPHack.PlayerESP = true;
+
+
+global::ESPHack.PlayerESP = true
+
+
 global::ESPHack.EspBox = true;
+
+
 global::ESPHack.EspLine = true;
 
 }
