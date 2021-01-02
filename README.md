@@ -16,3 +16,11 @@ global::ESPHack.EspBox = true;
 global::ESPHack.EspLine = true;
 
 }
+
+
+Active classes
+UIRoot
+AudioManager
+PlayerController
+SoundManager
+AdsManager
